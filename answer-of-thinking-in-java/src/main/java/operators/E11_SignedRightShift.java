@@ -1,0 +1,72 @@
+package operators;
+
+import static net.mindview.util.Print.print;
+
+public class E11_SignedRightShift {
+    public static void main(String[] args) {
+        int i = 0x8000000;
+        print(Integer.toBinaryString(i));
+        i >>= 1;
+        print(Integer.toBinaryString(i));
+        i >>= 1;
+        print(Integer.toBinaryString(i));
+        i >>= 1;
+        print(Integer.toBinaryString(i));
+        i >>= 1;
+        print(Integer.toBinaryString(i));
+        i >>= 1;
+        print(Integer.toBinaryString(i));
+        i >>= 1;
+        print(Integer.toBinaryString(i));
+        i >>= 1;
+        print(Integer.toBinaryString(i));
+        i >>= 1;
+        print(Integer.toBinaryString(i));
+        i >>= 1;
+        print(Integer.toBinaryString(i));
+        i >>= 1;
+        print(Integer.toBinaryString(i));
+        i >>= 1;
+        print(Integer.toBinaryString(i));
+        i >>= 1;
+        print(Integer.toBinaryString(i));
+        i >>= 1;
+        print(Integer.toBinaryString(i));
+        i >>= 1;
+        print(Integer.toBinaryString(i));
+        i >>= 1;
+        print(Integer.toBinaryString(i));
+        i >>= 1;
+        print(Integer.toBinaryString(i));
+        i >>= 1;
+        print(Integer.toBinaryString(i));
+        i >>= 1;
+        print(Integer.toBinaryString(i));
+        i >>= 1;
+        print(Integer.toBinaryString(i));
+        i >>= 1;
+        print(Integer.toBinaryString(i));
+        i >>= 1;
+        print(Integer.toBinaryString(i));
+        i >>= 1;
+        print(Integer.toBinaryString(i));
+        i >>= 1;
+        print(Integer.toBinaryString(i));
+        i >>= 1;
+        print(Integer.toBinaryString(i));
+        i >>= 1;
+        print(Integer.toBinaryString(i));
+        i >>= 1;
+        print(Integer.toBinaryString(i));
+        i >>= 1;
+        print(Integer.toBinaryString(i));
+        i >>= 1;
+        print(Integer.toBinaryString(i));
+        i >>= 1;
+        print(Integer.toBinaryString(i));
+        i >>= 1;
+        print(Integer.toBinaryString(i));
+        i >>= 1;
+        print(Integer.toBinaryString(i));
+    }
+}
